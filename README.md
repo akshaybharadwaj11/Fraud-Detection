@@ -1,5 +1,5 @@
 # Fraud Detection in Financial Transactions
-This notebook performs binary classification using financial transactions using Logistic Regression model to identify fraudulent transactions
+This notebook performs binary classification on financial transactions using Logistic Regression model to identify fraudulent transactions
 
 ### Dataset - https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data?resource=download
 
