@@ -1,9 +1,11 @@
 # Fraud Detection in Financial Transactions
+This notebook performs binary classification using financial transactions using Logistic Regression model to identify fraudulent transactions
 
-Dataset ![https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data?resource=download]
+### Dataset - https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data?resource=download
+
 The dataset contains transactions of a financial company, where certain transactions have been flagged as Fraudulent transactions.
 
-Data Dictionary:
+### Data Dictionary:
 step - maps a unit of time in the real world. In this case 1 step is 1 hour of time. Total steps 744 (30 days simulation).
 
 type - CASH-IN, CASH-OUT, DEBIT, PAYMENT and TRANSFER.
